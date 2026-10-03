@@ -74,3 +74,4 @@ User-agent: Diffbot
 Allow: /
 
 Sitemap: https://jungrok5.github.io/sitemap.xml
+Sitemap: https://jungrok5.github.io/mmo-lag-anatomy/sitemap.xml
