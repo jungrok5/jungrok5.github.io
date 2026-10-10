@@ -76,3 +76,4 @@ Allow: /
 Sitemap: https://jungrok5.github.io/sitemap.xml
 Sitemap: https://jungrok5.github.io/mmo-lag-anatomy/sitemap.xml
 Sitemap: https://jungrok5.github.io/x-eo/sitemap.xml
+Sitemap: https://jungrok5.github.io/ai-design/sitemap.xml
